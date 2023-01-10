@@ -1,0 +1,13 @@
+---- Applied Jobs Data ---- created at: 20230110
+---- Number | Job Title | Company | Location | Work Place | Posted Date | Applications | Result 
+
+ Category: Java, Location: USA, Applying 18,652 results jobs.
+1 | Lead Collaboration Engineer | Iron Bow Technologies | Washington, DC | On-site | 1 minute ago |  | * 🥳 Just Applied to this job: https://www.linkedin.com/jobs/view/3430772641
+
+ Category: Java, Location: USA, Applying 18,910 results jobs.
+
+ Category: Java, Location: USA, Applying 18,969 results jobs.
+1 | Full Stack C# Developer | Wimmer Solutions | Dallas, TX | On-site | 6 minutes ago |  | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3428738834
+2 | Circuit Activation Engineer | GCyber | Arlington, VA | Hybrid | 1 day ago | 18 applicants | * 🥵 4 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3429577325
+3 | Software Engineer | RGBSI | Farmington Hills, MI | On-site | 4 days ago | 21 applicants | * 🥳 Just Applied to this job: https://www.linkedin.com/jobs/view/3424417366
+4 | React UI + C# Developer | Tech Mahindra | Redmond, WA | Hybrid | 2 days ago | 94 applicants | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3424792441
